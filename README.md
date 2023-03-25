@@ -25,7 +25,7 @@ a=b
 b=c
 print("Swapped values are:",a,b)
 ## OUTPUT:
-"C:\Users\SEC\Pictures\swap.png"
+C:\Users\SEC\Pictures\swap.png
 
 
 ## RESULT:
