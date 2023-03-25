@@ -18,14 +18,17 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+```
 a=float(input())
 b=float(input())
 c=a
 a=b
 b=c
 print("Swapped values are:",a,b)
+```
 ## OUTPUT:
-C:\Users\SEC\Pictures\swap.png
+![swap](https://user-images.githubusercontent.com/118657189/227697179-8bfd7a81-49a7-4bf8-833a-61a7e73d02de.png)
+
 
 
 ## RESULT:
